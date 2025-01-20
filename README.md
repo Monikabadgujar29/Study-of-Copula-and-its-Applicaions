@@ -1,0 +1,1 @@
+Explored the mathematical framework of copulas, emphasizing their role in modeling dependencies between variables using Sklar’s Theorem. Applied copulas in hydrology for rainfall data analysis and in multivariate process control to enhance monitoring techniques and improve  decision-making.
